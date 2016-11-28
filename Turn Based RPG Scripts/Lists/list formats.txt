@@ -1,0 +1,40 @@
+3 inputs
+-------------
+abiltyList
+-------------
+name
+power
+accuracy (%)
+-------------
+10 inputs
+-------------
+monsterList
+-------------
+name
+health
+attack
+defense
+speed
+type
+ability1
+ability2
+ability3
+ability4
+-------------
+3 inputs
+-------------
+itemList
+-------------
+name
+Effect
+shopPrice
+-------------
+5 inputs
+-------------
+effectList
+-------------
+name
+value
+duration
+statToChange
+percentage (T/F for if value is a percentage)
